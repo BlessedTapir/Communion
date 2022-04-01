@@ -44,15 +44,19 @@
 
 ### Questions、部分解决方案
 - **真的有人需要这样的网站吗？**
-  - 有 例子:neodb.social、read.land 
+  - 有 例子:neodb.social read.land bookwyrm.social
+- 怎么复刻豆列？书影音和豆列哪个优先做？
 - 怎么获得捐款？
 - 怎么进行一个长期不关闭的投票调查？
   - 语雀
 - 首页应该长什么样子，需要有哪些基本的板块？
 - 做不做广播？还是直接用长毛象？
+  - 做， make it compatible with ActivityPub 
 - 做不做小组？还是建Discourse/Discord?
+  - 做
 - Discord怎么用啊?(这个就不用发Issues了，直接在Discord里告诉我吧。)
 - 有哪些参考网站？
+  - Douban.com Write.as read.land
 - 配色怎么选? 
   - http://mcg.mbitson.com/
   - https://material.io/guidelines/style/color.html#color-themes
@@ -60,11 +64,12 @@
   - changelog应该怎么写？
   - 用Github来记录用户反馈和整理目标方向。
 - 怎么改善缺少数据的问题？
+  - Crawling, Marketing
 - 怎么做评分系统？
 - 怎么做推荐系统？
 - 需要先学System Design吗
 - 做不做问答板块？类似知乎那种？
-- 怎么复刻豆列？书影音和豆列哪个优先做？
+  - 做
 - ***我没有考虑到的问题是什么？***
 - 不考虑用户内容的话，对一个系统来说，什么是有趣？  
 - 需要做 RSS Feed 功能吗
@@ -128,3 +133,6 @@ https://app.revolt.chat/invite/caDfD7GZ
 2021-09-13
 - 添加了用户页面和设置页面的占位符
 - 修改了AuthService
+
+2022-04-01
+- 添加了小组和问答页面的占位符
