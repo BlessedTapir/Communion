@@ -16,6 +16,12 @@
 - [ ] Backend
   - [ ] Start
   - [ ] Auth
+    - [ ] OAuth 2
+    - [ ] OIDC
+    - [ ] JWT
+    - [ ] SAML
+    - [ ] LDAP
+    - [ ] SSO
   - [ ] Books
 - [ ] i8n
 - [ ] 基本帐号功能。
@@ -46,6 +52,8 @@
 - [ ] 基本的网站规则。
 - [x] [Discord](https://discord.gg/C4Xah9SYmy) 
 - [ ] Documentation
+- [ ] Admin Console
+- [ ] Account Management Console
 
 ### Questions、部分解决方案
 - **真的有人需要这样的网站吗？**
