@@ -108,7 +108,7 @@
 - 消息/私信/站内信/洞邮？
 - 书架/书单/列表/收藏？
 - 微博/说说/状态/广播/嘟文？
-- note/post/article/page/document/content
+- note/post/article/page/document/content/review/journal
 
 ### 暂无开发计划
 - 全文搜索功能
