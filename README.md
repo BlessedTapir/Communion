@@ -16,6 +16,8 @@
 - [ ] Backend
   - [ ] Start
   - [ ] Auth
+    - [ ] Username
+    - [ ] Email
     - [ ] OAuth 2
     - [ ] OIDC
     - [ ] JWT
