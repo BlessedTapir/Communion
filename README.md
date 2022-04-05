@@ -24,6 +24,7 @@
     - [ ] SAML
     - [ ] LDAP
     - [ ] SSO
+    - [ ] Public Key/ Private Key
   - [ ] Books
 - [ ] i8n
 - [ ] 基本帐号功能。
