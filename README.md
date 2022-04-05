@@ -150,3 +150,6 @@ https://app.revolt.chat/invite/caDfD7GZ
 
 2022-04-01
 - 添加了小组和问答页面的占位符
+
+2022-04-04
+- Change auth service.
