@@ -58,6 +58,7 @@
 - [ ] Documentation
 - [ ] Admin Console
 - [ ] Account Management Console
+- [ ] UML
 
 ### Questions、部分解决方案
 - **真的有人需要这样的网站吗？**
@@ -113,6 +114,7 @@
 - 书架/书单/列表/收藏？
 - 微博/说说/状态/广播/嘟文？
 - note/post/article/page/document/content/review/journal
+
 
 ### 暂无开发计划
 - 全文搜索功能
