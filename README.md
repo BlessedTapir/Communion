@@ -35,6 +35,7 @@
     - [ ] Google  
     - [ ] GitHub  
     - [x] LocalStorage
+    - [ ] Session / Cookie
 - [ ] 个人主页
   - [ ] View
   - [ ] API
